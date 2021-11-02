@@ -1,0 +1,13 @@
+.big_case{
+	margin: auto;
+	text-align: center;
+	background-color: red;
+	height: 500px;
+	width: 800px;
+}
+
+#case_a_deplacer{
+	background-color: blue;
+	height: 50px;
+	width: 50px;
+}
